@@ -1,0 +1,33 @@
+{
+  "name": "insider-automation-test",
+  "version": "1.0.0",
+  "description": "Insider website automation test using Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.40.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  },
+  "author": "Taha Karaman",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaramanTaha/insider-test-case-ts-playwright.git"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "typescript",
+    "insider",
+    "qa",
+    "selenium-alternative",
+    "page-object-model"
+  ]
+}
