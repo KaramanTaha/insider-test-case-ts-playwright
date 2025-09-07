@@ -183,7 +183,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 **Taha Karaman**
 - GitHub: [@KaramanTaha](https://github.com/KaramanTaha)
-- LinkedIn: [Taha Karaman](https://linkedin.com/in/karamantaha)
+- LinkedIn: [Taha Karaman](https://linkedin.com/in/tahakaraman)
 
 ---
 
